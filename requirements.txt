@@ -1,0 +1,11 @@
+streamlit
+yfinance
+pandas
+numpy
+plotly
+scipy
+statsmodels
+scikit-learn
+xgboost  # optional, for XGBoost forecasts
+keras    # optional, for LSTM forecasts
+tensorflow  # optional, for LSTM forecasts
